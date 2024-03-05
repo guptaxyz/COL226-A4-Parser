@@ -1,5 +1,10 @@
 # PARSER for PROLOG using OCamlYacc:
 
+Hi ! I'm Aditya, a junior in Computer Science Department at IIT Delhi.
+This repository shall be including the assignment-4 along with my submission, for the Programming Languages Course under Prof. Sanjiva Prasad in the Spring semester of 2024.
+
+The objective of this assignment is to create a Parser for Prolog in OCaml using Yacc.
+
 The lexer for the prolog has been defined in the file _"lexer.mll"_, the parser in _"parser.mly"_ and the datatype used across the parser and in the output in _"ast.ml"_ , meanwhile, _"run.ml"_ contains the code which links all these files together.
 
 In order to output the abstract syntax tree of your .pl file using the parser, use the below format in the command line:
